@@ -1,0 +1,3 @@
+C:/Games/Riot Games/Riot Client/RiotClientElectron/locales/zh-CN.pak
+C:/Games/Riot Games/League of Legends (PBE)/locales
+C:/ProgramData/Riot Games/Metadata/league_of_legends.pbe/league_of_legends.pbe.product_settings.yaml
